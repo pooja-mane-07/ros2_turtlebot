@@ -2,6 +2,10 @@
 
 This ROS 2 project is a game-like application where you control a turtle within the `turtlesim` simulation to `catch` other turtles that are randomly spawned. The project is organized into three main packages: `turtle_bringup`, `turtle_catcher`, and `turtle_interface`.
 
+
+https://github.com/user-attachments/assets/7a56fa0a-ea2b-4291-82a1-d6c7cdb73bb2
+
+
 ## Overview of Packages
 
 1. **turtle_bringup** : Provides the launch files to bring up the entire system, including the `turtlesim_node`, `turtle_spawner`, and `turtle_controller` nodes.
